@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Banking-Finance/static/css/main.2f19dede.css",
+    "main.js": "/Banking-Finance/static/js/main.c3a70fee.js",
+    "static/js/453.6d0dbf61.chunk.js": "/Banking-Finance/static/js/453.6d0dbf61.chunk.js",
+    "static/media/wallpaper1.mp4": "/Banking-Finance/static/media/wallpaper1.412712fc732c30fdb39d.mp4",
+    "static/media/Signup.jpg": "/Banking-Finance/static/media/Signup.7bacce00931e29b5edb6.jpg",
+    "static/media/Log.jpg": "/Banking-Finance/static/media/Log.77f4484ccbec1610cbcb.jpg",
+    "static/media/logo.png": "/Banking-Finance/static/media/logo.0409fd0f3509dbf1eac8.png",
+    "index.html": "/Banking-Finance/index.html",
+    "main.2f19dede.css.map": "/Banking-Finance/static/css/main.2f19dede.css.map",
+    "main.c3a70fee.js.map": "/Banking-Finance/static/js/main.c3a70fee.js.map",
+    "453.6d0dbf61.chunk.js.map": "/Banking-Finance/static/js/453.6d0dbf61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f19dede.css",
+    "static/js/main.c3a70fee.js"
+  ]
+}
